@@ -1,6 +1,6 @@
 # Вячеслав Киселёв
 
-<img src="C:\Users\Маша\Resume\img\author.jpg" alt="мое фото">
+<img src="https://github.com/v0xp/Resume/tree/main/img/author.jpg" alt="мое фото">
 
 Личные качества: 
 Аналитический склад ума, ответственный, пунктуальный, коммуникабельный, без вредных привычек.
