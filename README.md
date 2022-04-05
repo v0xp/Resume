@@ -1,7 +1,7 @@
 # Вячеслав Киселёв
 
-![](https://github.com/v0xp/Resume/tree/main/img/author.jpg)
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+![](https://github.com/v0xp/Resume/tree/main/img/author.png)
+
 Личные качества: 
 Аналитический склад ума, ответственный, пунктуальный, коммуникабельный, без вредных привычек.
 
