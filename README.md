@@ -1,6 +1,6 @@
 # Вячеслав Киселёв
 
-![](https://github.com/v0xp/Resume/tree/main/img/author.png)
+![](https://raw.githubusercontent.com/v0xp/Resume/main/img/author.png)
 
 Личные качества: 
 Аналитический склад ума, ответственный, пунктуальный, коммуникабельный, без вредных привычек.
